@@ -100,7 +100,14 @@ This project demonstrates how SQL can be used to:
 * Analyze late vs on-time deliveries
 * Payment method vs delivery success comparison
 * Build a Power BI or Tableau dashboard
+  
+## Results
+### Funnel Output
+![Funnel](Results/funnel.png)
 
+---
+### Conversion Rate
+![Conversion Rate](Results/conversion_rate.png)
 ---
 
 ## Author
